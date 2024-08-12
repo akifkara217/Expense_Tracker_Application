@@ -1,6 +1,6 @@
 # expense_tracker
 
-Expense Tracker Application Flutter project.
+Expense Tracker Application with Flutter.
 
 https://github.com/user-attachments/assets/d13a5793-ba0c-4a33-87ca-b95802294d28
 
